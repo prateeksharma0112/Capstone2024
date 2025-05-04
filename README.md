@@ -20,6 +20,7 @@ The goal was to improve the document processing pipeline by integrating advanced
 ## 👤 My Role
 
 **Role:** Data Scientist & Full-Stack Developer (AI/UX Focus)
+
 As a core member of the team, I contributed to both the AI-driven backend and the user-focused frontend.
 
 ---
